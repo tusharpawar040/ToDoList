@@ -1,0 +1,11 @@
+.taskInput{
+    display: inline;
+    padding: 5px 10px;
+    margin: 15px 10px 10px 10px;
+    font-size: 15px;
+    align-items: center;
+}
+
+h2{
+    color: rgb(143, 194, 245);
+}
